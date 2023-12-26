@@ -1,0 +1,4 @@
+name: eggwars-a2
+version: '${version}'
+main: com.ethanrobins.eggwars.EggWars
+api-version: '1.20'
